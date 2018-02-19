@@ -15,6 +15,11 @@ main {
   margin: auto;
 }
 
+audio {
+  width: 260px;
+  margin: 20px 0 0 5px;
+}
+
 h1 {
   font-family: 'Crete Round', serif;
   margin: 5px 0 0 5px;
@@ -43,8 +48,9 @@ p {
   font-family: 'Quicksand', sans-serif;
   color: #808080;
   font-size: 13px;
-  margin: 0 0 0 13px;
+  margin: 0 13px 0 13px;
   padding: 5px 0 0 0; 
+  line-height: 16px;
 }
 
 section {
@@ -113,6 +119,7 @@ section {
   background-color:#FFF;
   box-shadow: 0px 4px 16px -5px rgba(0,0,0,0.75);
   display: inline-block;
+  vertical-align: top;
 }
 
 .picture-frame {
