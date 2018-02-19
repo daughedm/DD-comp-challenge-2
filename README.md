@@ -6,4 +6,4 @@ original composition:
 
 
 My recreation:
-![alt text](https://imgur.com/a/yCmCb "Logo Title Text 1")
+![alt text](https://i.imgur.com/xMp0jCY.jpg "Logo Title Text 1")
